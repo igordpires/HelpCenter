@@ -13,3 +13,5 @@ simple-jekyll-search@^1.5.0:
     fuzzysearch "^1.0.3"
     
     test igor
+    
+    igor.test
